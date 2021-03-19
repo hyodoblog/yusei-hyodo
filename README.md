@@ -1,6 +1,6 @@
-<a href="https://github.com/yusei-hyodo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusei-hyodo" />
 </a>
-<a href="https://github.com/yusei-hyod/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yusei-hyodo&count_private=true&show_icons=true" />
 </a>
