@@ -2,5 +2,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusei-hyodo&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yusei-hyodo&layout=compact&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yusei-hyodo&count_private=true&show_icons=true" />
 </a>
